@@ -16,7 +16,7 @@
       @include('layouts.navigation')
       {{ $slot }}
      
-   
+      @include('layouts.footer')
     </body>
 
 </html>

@@ -17,7 +17,7 @@
       To: "opacity-0 translate-y-1"
   -->
   <div class="absolute left-1/2 z-10 mt-5 flex w-screen max-w-min -translate-x-1/2 px-4">
-    <div class="w-56 shrink rounded-xl bg-white p-4 text-sm/6 font-semibold text-gray-900 shadow-lg ring-1 ring-gray-900/5">
+    <div class="w-36 shrink rounded-xl bg-white p-4 text-sm/6 font-semibold text-gray-900 shadow-lg ring-1 ring-gray-900/5">
       <a href="#" class="block p-2 hover:text-indigo-600">Analytics</a>
       <a href="#" class="block p-2 hover:text-indigo-600">Engagement</a>
       <a href="#" class="block p-2 hover:text-indigo-600">Security</a>
