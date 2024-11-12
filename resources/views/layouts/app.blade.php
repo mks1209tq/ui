@@ -25,7 +25,7 @@
         
             @include('layouts.app-navigation')
             @include('layouts.app-page-header')
-            
+            @include('layouts.app-page-menu')
 
             <!-- Page Heading -->
             <!-- @isset($header)

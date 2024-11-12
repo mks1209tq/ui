@@ -5,9 +5,7 @@
         </h2>
     </x-slot> -->
 
-    <div class="m-3 p-3 xl:m-6 xl:p-6 flex justify-left border-2 border-red-500">
-        @include('partials.sub-nav')
-    </div>
+
 
     <div class="m-3 p-3 xl:m-6 xl:p-6 border-2 border-red-500">
         @include('partials.page-heading')
